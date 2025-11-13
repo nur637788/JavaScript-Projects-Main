@@ -4,7 +4,7 @@ The JavaScript Projects Site is a centralized platform housing significant proje
 
 Crafted using fundamental technologies like HTML, CSS, TailwindCSS, SCSS, JavaScript, and jQuery, it offers a seamless experience for project exploration and engagement.
 
-[Visit Now](https://jigar-sable.github.io/JavaScript-Projects) 🚀
+[Visit Now](https://javascript-main.netlify.app/) 🚀
 
 ## Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/JavaScript-Projects/search?l=html)&nbsp;
