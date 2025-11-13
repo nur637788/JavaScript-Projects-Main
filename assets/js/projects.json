@@ -1,0 +1,100 @@
+[
+  {
+    "name": "WeKeep Notes",
+    "desc": "We keep notes saver. Stores Notes in LocalStorage. TailwindCSS",
+    "meta": "wekeep",
+    "live": "https://keepnots.netlify.app/",
+    "code": "https://github.com/nur637788/We-Keep-Notes"
+  },
+  {
+    "name": "Songify Music Player",
+    "desc": "Music Player with play, pause, playlist and all major features. SASS/SCSS",
+    "meta": "songify",
+    "live": "https://songapps.netlify.app/",
+    "code": "https://github.com/nur637788/Song-App"
+  },
+  {
+    "name": "Quiz Web App",
+    "desc": "Simple quiz application. tailwindCSS framework.",
+    "meta": "quizapp",
+    "live": "https://quiz-appa.netlify.app/",
+    "code": "https://github.com/nur637788/Quiz-App"
+  },
+  {
+    "name": "Temperature Converter",
+    "desc": "Temperature converter celsius to kelvin and fahrenhiet live.",
+    "meta": "tempconvert",
+    "live": "https://temp-convat.netlify.app/",
+    "code": "https://github.com/nur637788/Temperature-Converter"
+  },
+  {
+    "name": "DummyText Generator",
+    "desc": "Words and character counter. Live Counter JavaScript Project.",
+    "meta": "wordcount",
+    "live": "https://dummytext01.netlify.app/",
+    "code": "https://github.com/nur637788/Dummy-Text-Generator"
+  },
+  {
+    "name": "Simple Stopwatch",
+    "desc": "Simple stopwatch with start, stop and reset features.",
+    "meta": "stopwatch",
+    "live": "https://step-watch.netlify.app/",
+    "code": "https://github.com/nur637788/Step-Watch"
+  },
+  {
+    "name": "Birthday-Celebrate",
+    "desc": "Birthday-Celebrate User input for Name or Iamge Then Celebrate Button Presss.",
+    "meta": "birthday-celebrate",
+    "live": "https://birthday-celebrat.netlify.app/",
+    "code": "https://github.com/nur637788/Birthday-Celebrate"
+  },
+  {
+    "name": "Simple Calculator",
+    "desc": "Simple Operations Calculator Based On The Two User Inputs.",
+    "meta": "twonumcalc",
+    "live": "https://funcunalcalculator.netlify.app/",
+    "code": "https://github.com/nur637788/calculator"
+  },
+  {
+    "name": "Todo List",
+    "desc": "Simple Todo List Webapp With Modern UI And Glassmorphism.",
+    "meta": "todo",
+    "live": "https://todo-appk.netlify.app/",
+    "code": "https://github.com/nur637788/Todo-App"
+  },
+  {
+    "name": "Age Calculator",
+    "desc": "Calculates The Age Of The User. Wishes Too On Birthday.",
+    "meta": "agecalc",
+    "live": "https://age-call.netlify.app/",
+    "code": "https://github.com/nur637788/Age-Calculator"
+  },
+  {
+    "name": "Password Generator",
+    "desc": "A Basic Password Generator As Per The User Selected Criteria.",
+    "meta": "pwdgen",
+    "live": "https://password-generatorg.netlify.app/",
+    "code": "https://github.com/nur637788/Password-Generator"
+  },
+  {
+    "name": "Issue Tracker",
+    "desc": "Assign Issue With The Auto Generated Id By Using ChanceJS. Uses LocalStorage.",
+    "meta": "issuetracker",
+    "live": "https://issue-tacker.netlify.app/",
+    "code": "https://github.com/nur637788/Issue-Tracker"
+  },
+  {
+    "name": "Basic Calculator",
+    "desc": "A Simple Caculator Built Using JavaScript.",
+    "meta": "basic-calc",
+    "live": "https://basic-call.netlify.app/",
+    "code": "https://github.com/nur637788/Basic-Calculator"
+  },
+  {
+    "name": "Circle Clock",
+    "desc": "Basic Neomorphism Clock With Hour, Min, Sec With Light And Dark Mode. Tilt Effect.",
+    "meta": "neoclock",
+    "live": "https://cricle-clock.netlify.app/",
+    "code": "https://github.com/nur637788/Circle-Clock"
+  }
+]
